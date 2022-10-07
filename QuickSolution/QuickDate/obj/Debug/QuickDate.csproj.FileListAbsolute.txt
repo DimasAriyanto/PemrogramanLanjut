@@ -1,0 +1,7 @@
+D:\21.11.4408\QuickSolution\QuickDate\bin\Debug\QuickDate.exe.config
+D:\21.11.4408\QuickSolution\QuickDate\bin\Debug\QuickDate.exe
+D:\21.11.4408\QuickSolution\QuickDate\bin\Debug\QuickDate.pdb
+D:\21.11.4408\QuickSolution\QuickDate\obj\Debug\QuickDate.csprojAssemblyReference.cache
+D:\21.11.4408\QuickSolution\QuickDate\obj\Debug\QuickDate.csproj.CoreCompileInputs.cache
+D:\21.11.4408\QuickSolution\QuickDate\obj\Debug\QuickDate.exe
+D:\21.11.4408\QuickSolution\QuickDate\obj\Debug\QuickDate.pdb
