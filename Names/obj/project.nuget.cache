@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4c9oiYFmkgASSZmS/Va/wgbPlh5CH7iR2BktccDGnSBMrTz/W7/CutQVn6KldJC54p81zKV/KmINJ+JkHu/b5w==",
+  "dgSpecHash": "7G1+SDy53C8Bd3eXAmIWrfY3wYR0q6gNicq8sxmaEnW+T/A6RPSX30wZfhJxX0WWVnhL4QXqTjVTkqkd9uwGIw==",
   "success": true,
-  "projectFilePath": "E:\\21.11.4408\\Names\\Names.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\C#\\PemrogramanLanjut\\Names\\Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
   "logs": []
 }
