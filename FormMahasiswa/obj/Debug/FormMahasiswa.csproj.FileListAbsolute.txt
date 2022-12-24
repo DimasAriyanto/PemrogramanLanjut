@@ -1,0 +1,16 @@
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa.csproj.AssemblyReference.cache
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa.csproj.SuggestedBindingRedirects.cache
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\MainWindow.g.cs
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\App.g.cs
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa_MarkupCompile.cache
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa_MarkupCompile.lref
+D:\C#\PemrogramanLanjut\FormMahasiswa\bin\Debug\FormMahasiswa.exe.config
+D:\C#\PemrogramanLanjut\FormMahasiswa\bin\Debug\FormMahasiswa.exe
+D:\C#\PemrogramanLanjut\FormMahasiswa\bin\Debug\FormMahasiswa.pdb
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\MainWindow.baml
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa.g.resources
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa.Properties.Resources.resources
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa.csproj.GenerateResource.cache
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa.csproj.CoreCompileInputs.cache
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa.exe
+D:\C#\PemrogramanLanjut\FormMahasiswa\obj\Debug\FormMahasiswa.pdb
